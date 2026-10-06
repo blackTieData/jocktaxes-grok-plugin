@@ -1,0 +1,12 @@
+{
+  "name": "Jock Taxes",
+  "description": "NHL, NFL, MLB, and NBA tax calculators",
+  "owner": { "name": "Jock Taxes" },
+  "plugins": [
+    {
+      "name": "jocktaxes",
+      "description": "Calculate jock tax, equivalent salary, and player movement",
+      "source": { "type": "local", "path": "./plugins/jocktaxes" }
+    }
+  ]
+}

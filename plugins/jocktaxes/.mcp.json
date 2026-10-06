@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jocktaxes": {
+      "type": "http",
+      "url": "https://jocktaxes.com/grok/mcp"
+    }
+  }
+}
